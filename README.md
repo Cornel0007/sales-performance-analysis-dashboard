@@ -10,17 +10,8 @@ A data analytics project focused on analyzing sales performance across products,
 - Data Visualization
 - Dashboard Development
 
-## Key Project Metrics
-
-| Metric | Result |
-|---|---:|
-| Total Orders | 10 |
-| Total Sales | ₦5,290,000 |
-| Average Order Value | ₦529,000 |
-| Highest Confirmed Salesperson | Daniel — ₦2,695,000 |
-| Highest-Performing Region | Abuja — ₦1,600,000 |
-
 ---
+
 ## Project Overview
 
 This project involved analyzing sales transaction data and developing an interactive Sales Performance Analysis Dashboard using Airtable.
@@ -65,7 +56,7 @@ The dataset was reviewed for consistency.
 
 One identified issue was the use of both "Computer" and "Computers" as category values. These were standardized to "Computers" to ensure consistent analysis.
 
-A calculated Total Sales field was created using:
+A calculated **Total Sales** field was created using:
 
 **Total Sales = Quantity × Unit Price**
 
@@ -112,13 +103,15 @@ The dashboard includes:
 
 ## Key Findings
 
+The analysis produced the following confirmed results:
+
 | Metric | Result |
 |---|---:|
 | Total Orders | 10 |
 | Total Sales | ₦5,290,000 |
 | Average Order Value | ₦529,000 |
-| Highest confirmed salesperson | Daniel — ₦2,695,000 |
-| Highest-performing region | Abuja — ₦1,600,000 |
+| Highest Confirmed Salesperson | Daniel — ₦2,695,000 |
+| Highest-Performing Region | Abuja — ₦1,600,000 |
 
 ### Regional Performance
 
@@ -159,9 +152,14 @@ The project demonstrates practical skills in:
 
 ---
 
-## Tools Used
+## Future Improvements
 
-- Airtable
-- Data Analysis
-- Data Visualization
-- Dashboard Development
+The project could be expanded by:
+
+- Adding more sales records for a broader analysis.
+- Adding monthly or quarterly sales trend analysis.
+- Introducing profit and profit-margin analysis if cost data becomes available.
+- Adding sales targets and performance comparisons.
+- Adding commission analysis for salespeople.
+- Recreating the analysis using tools such as Excel, SQL, Power BI, or Tableau.
+- Adding more interactive filters to improve dashboard exploration.
