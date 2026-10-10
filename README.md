@@ -66,14 +66,26 @@ The analysis focused on:
 
 ## Dashboard
 
-An interactive Airtable dashboard was developed containing:
+An interactive Airtable dashboard was developed to provide a clear visual overview of sales performance.
 
-- Total Orders
-- Total Sales
-- Sales by Product
-- Sales by Region
-- Salesperson Performance
-- Salesperson × Category analysis
+The dashboard includes:
+
+- **Total Orders** — shows the number of sales transactions.
+- **Total Sales** — shows total revenue generated.
+- **Salesperson Performance** — compares sales activity across salespeople.
+- **Sales by Region** — compares revenue across different regions.
+- **Sales by Product** — compares performance across products.
+- **Salesperson × Category Analysis** — shows how sales activity is distributed across salespeople and product categories.
+
+### Dashboard Preview
+
+#### Dashboard Overview
+
+![Sales Dashboard Overview](sales-dashboard-overview.png)
+
+#### Dashboard Details
+
+![Sales Dashboard Details](sales-dashboard-details.png)
 
 ---
 
