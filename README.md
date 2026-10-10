@@ -1,5 +1,26 @@
 # Sales Performance Analysis Dashboard
 
+A data analytics project focused on analyzing sales performance across products, regions, and salespeople. The project transforms sales transaction data into calculated metrics, visual analysis, and an interactive Airtable dashboard.
+
+## Tools Used
+
+- Airtable
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Dashboard Development
+
+## Key Project Metrics
+
+| Metric | Result |
+|---|---:|
+| Total Orders | 10 |
+| Total Sales | ₦5,290,000 |
+| Average Order Value | ₦529,000 |
+| Highest Confirmed Salesperson | Daniel — ₦2,695,000 |
+| Highest-Performing Region | Abuja — ₦1,600,000 |
+
+---
 ## Project Overview
 
 This project involved analyzing sales transaction data and developing an interactive Sales Performance Analysis Dashboard using Airtable.
